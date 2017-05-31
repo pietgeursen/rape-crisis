@@ -1,3 +1,4 @@
 # Summary
 
-* [Rape Crisis](README.md)
+* [Introduction](README.md)
+* [During the training](during-the-training.md)
